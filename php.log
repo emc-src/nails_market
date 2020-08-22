@@ -1,0 +1,8 @@
+[11-Jul-2020 23:32:16 Asia/Tokyo] 例外エラー発生（商品カテゴリリスト取得関数にて）：SQLSTATE[HY000] [2002] Operation timed out
+[11-Jul-2020 23:32:46 Asia/Tokyo] 例外エラー発生（商品コンディションリスト取得関数にて）：SQLSTATE[HY000] [2002] Operation timed out
+[11-Jul-2020 23:32:46 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/nails_market/registProduct.php on line 248
+[11-Jul-2020 23:32:46 Asia/Tokyo] PHP Stack trace:
+[11-Jul-2020 23:32:46 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/nails_market/registProduct.php:0
+[11-Jul-2020 23:32:46 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/nails_market/registProduct.php on line 274
+[11-Jul-2020 23:32:46 Asia/Tokyo] PHP Stack trace:
+[11-Jul-2020 23:32:46 Asia/Tokyo] PHP   1. {main}() /Applications/MAMP/htdocs/nails_market/registProduct.php:0
